@@ -1,0 +1,16 @@
+To create new angular Project
+>
+ng new ProjectName
+
+
+To start a project the command--
+At first we have to go that Project vaia "cd" command
+Then
+>
+npm start 
+	or
+ng start
+
+To stop Project
+>
+Cntrl + c
